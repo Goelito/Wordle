@@ -16,8 +16,6 @@ nb_mot = len(lignes)
 mot_n = lignes[random.randint(0,nb_mot-1)]
 mot = mot_n[0:len(mot_n)-1]
 
-print("DEBUG ", mot,"\n")
-
 #main
 
 print("----------")
